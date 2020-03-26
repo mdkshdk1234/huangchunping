@@ -1,4 +1,10 @@
 sdfasdfdsgsgsgs
+<<<<<<< .mine
 hjljyihljojhkjjklkklkjgyyuppljtt
 ojjkklkhggf韩红基金会规范
 gdgddhdfhdhghdfhhhhhhhhhh
+=======
+hjljyihljojhkjjklkklkjgyyuppljtt
+ojjkklkhggf韩红基金会规范
+
+>>>>>>> .theirs
